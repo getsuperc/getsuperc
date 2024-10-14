@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @getsuperc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning code
+- 🌱 I’m currently learning all about code
 
 <!---
 getsuperc/getsuperc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
